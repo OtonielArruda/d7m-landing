@@ -1,0 +1,2 @@
+/* Motion remains intentionally discreet and respects reduced-motion settings. */
+@media (prefers-reduced-motion:no-preference){.d7m-mark{animation:compass-breathe 5s ease-in-out infinite}@keyframes compass-breathe{50%{transform:rotate(4deg);filter:drop-shadow(0 0 7px rgba(105,214,202,.35))}}}
