@@ -1,0 +1,6 @@
+/* Official Start Digital 2026 badge and QR sharing panel. */
+.brand-header{justify-content:center}.official-start-badge{display:block;width:clamp(94px,12vw,130px);height:auto;border-radius:12px;box-shadow:0 12px 28px rgba(0,0,0,.2)}
+.brand-header .brand-lockup,.brand-header .start-digital{display:none}
+.qr-section{display:flex;align-items:center;justify-content:center;gap:32px;max-width:650px;margin:95px auto 0;padding:30px;border:1px solid rgba(105,214,202,.25);border-radius:20px;background:rgba(255,255,255,.07)}
+.qr-section>img{flex:0 0 150px;width:150px;height:150px;padding:9px;border-radius:12px;background:#fff}.qr-section .eyebrow{justify-content:flex-start}.qr-section h2{margin:12px 0 9px;font:700 clamp(1.7rem,3.5vw,2.5rem)/1.1 "Playfair Display",Georgia,serif}.qr-section p{margin:0;color:#c7dddd;font-size:.9rem;line-height:1.6}
+@media(max-width:700px){.qr-section{flex-direction:column;align-items:flex-start;gap:20px;margin-top:65px}.qr-section>img{width:136px;height:136px}}
